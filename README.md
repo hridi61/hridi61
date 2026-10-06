@@ -18,15 +18,15 @@ I'm a Computer Science & Engineering undergraduate at Independent University, Ba
 - 💻 I'm currently working on **HTML, CSS, JavaScript and React** for frontend development
 - 🛠️ I'm currently learning **Next.js and TypeScript**
 - 💬 Ask me about **React, Tailwind CSS and JavaScript**
-- 🌐 Explore my [Portfolio](https://YOUR_PORTFOLIO.vercel.app) and my [Resume](https://YOUR_RESUME_LINK)
-- 📫 Feel free to reach me via [Email](mailto:hridi0422@gmail.com)
+- 🌐 Explore my [Portfolio](https://vercel.com/hridi1)
+- 📫 Feel free to reach me via [Email](mailto:hridi042@gmail.com)
 
 ## 🌐 Follow Me on Socials
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" /></a>
-  <a href="mailto:hridi0422@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="https;//www.linkedin.com/in/tanaka-anta-alam-hridi-7796a134b"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="[https://facebook.com/YOUR_FACEBOOK](https://www.facebook.com/share/1dhysgnyi8/)"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" /></a>
+  <a href="mailto:hridi042@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
   <a href="https://github.com/hridi61"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
 
