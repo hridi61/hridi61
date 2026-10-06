@@ -87,6 +87,6 @@ I'm a Computer Science & Engineering undergraduate at Independent University, Ba
 
 ### 📁 Repository Stats
 <p align="center">
-  <a href="[https://github.com/hridi61/REPO_NAME_1](https://github.com/hridi61/B14-A6-Fit-Log)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hridi61&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Repo 1" /></a>
-  <a href="https://[github.com/hridi61/REPO_NAME_2](https://github.com/hridi61/b14-a5)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hridi61&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Repo 2" /></a>
+  <a href="[[https://github.com/hridi61/REPO_NAME_1](https://github.com/hridi61/B14-A6-Fit-Log)](https://github.com/hridi61/B14-A6-Fit-Log)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hridi61&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Repo 1" /></a>
+  <a href="[https://[github.com/hridi61/REPO_NAME_2](https://github.com/hridi61/b14-a5)](https://github.com/hridi61/b14-a5)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hridi61&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Repo 2" /></a>
 </p>
