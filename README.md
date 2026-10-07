@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=220&section=header&text=Tanaka%20Anta%20Alam%20Hridi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner" />
+<img src="https://raw.githubusercontent.com/hridi61/hridi61/main/banner_dark.png" width="100%" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Tanaka Anta Alam Hridi</h1>
 
