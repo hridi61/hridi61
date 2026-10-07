@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/hridi61/hridi61/main/banner_dark.png" width="100%" alt="Banner" />
+<img src="https://raw.githubusercontent.com/hridi61/hridi61/main/banner.png" width="100%" alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Tanaka Anta Alam Hridi</h1>
 
