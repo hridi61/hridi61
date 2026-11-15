@@ -13,13 +13,13 @@ I'm a Computer Science & Engineering undergraduate at Independent University, Ba
 
 ## 🚀 What I'm Up To
 
-- 👋 Hi, I'm [@hridi61](https://github.com/hridi61)
-- 🎓 CSE undergrad at Independent University, Bangladesh (IUB)
-- 💻 I'm currently working on **HTML, CSS, JavaScript and React** for frontend development
-- 🛠️ I'm currently learning **Next.js and TypeScript**
-- 💬 Ask me about **React, Tailwind CSS and JavaScript**
-- 🌐 Explore my [Portfolio](https://vercel.com/hridi1)
-- 📫 Feel free to reach me via [Email](mailto:hridi042@gmail.com)
+* 👋 Hi, I'm [@hridi61](https://github.com/hridi61)
+* 🎓 CSE undergrad at Independent University, Bangladesh (IUB)
+* 💻 I'm currently building full-stack projects with React, Next.js, TypeScript, Express and MongoDB
+* 🛠️ Latest project: [BookNook](https://booknook-client-lake.vercel.app), an online library with login, borrowing and returns
+* 💬 Ask me about React, Next.js, Tailwind CSS and JavaScript
+* 🌐 Explore my [projects](https://github.com/hridi61?tab=repositories)
+* 📫 Feel free to reach me via [Email](mailto:hridi042@gmail.com)
 
 ## 🌐 Follow Me on Socials
 
