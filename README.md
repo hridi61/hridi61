@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science & Engineering undergraduate at Independent University, Bangladesh (IUB) and an aspiring frontend developer. I enjoy turning ideas and designs into clean, responsive web apps, and I'm always learning something new.
+I'm a Computer Science & Engineering undergraduate at Independent University, Bangladesh (IUB) and an aspiring full-stack developer. I enjoy turning ideas and designs into clean, responsive web apps, from the interface to the API and database, and I'm always learning something new.
 
 ## 🚀 What I'm Up To
 
