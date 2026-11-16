@@ -29,9 +29,6 @@ I'm a Computer Science & Engineering undergraduate at Independent University, Ba
 
 ## 🧰 Technology Stack
 
-
-## 🧰 Technology Stack
-
 ### 💬 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="Languages" />
