@@ -23,12 +23,7 @@ I'm a Computer Science & Engineering undergraduate at Independent University, Ba
 
 ## 🌐 Follow Me on Socials
 
-<p>
-  <a href="https;//www.linkedin.com/in/tanaka-anta-alam-hridi-7796a134b"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="[https://facebook.com/YOUR_FACEBOOK](https://www.facebook.com/share/1dhysgnyi8/)"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" /></a>
-  <a href="mailto:hridi042@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://github.com/hridi61"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tanaka-anta-alam-hridi-7796a134b) [![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/share/18YNftdjVx/) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Hridi682) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:hridi042@gmail.com) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/hridi61)
 
 ## 🧰 Technology Stack
 
