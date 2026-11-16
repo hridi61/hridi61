@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Tanaka Anta Alam Hridi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Frontend+Developer;CSE+Undergrad+at+IUB;React+%26+Next.js+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;CSE+Undergrad+at+IUB;React+%26+Next.js+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## 👩‍💻 About Me
@@ -29,40 +29,44 @@ I'm a Computer Science & Engineering undergraduate at Independent University, Ba
 
 ## 🧰 Technology Stack
 
+
+## 🧰 Technology Stack
+
 ### 💬 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="Languages" />
 </p>
 
 ### 🎨 CSS Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" alt="CSS Frameworks" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="CSS Frameworks" />
 </p>
 
 ### ⚛️ JavaScript Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,nodejs,express" alt="JS Frameworks and Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express" alt="JavaScript Frameworks" />
 </p>
 
-### 🗄️ Database & ORM
+### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,prisma" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Database" />
 </p>
 
 ### 🚀 Deployment Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment" />
 </p>
 
 ### 🖌️ Design & Graphics
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design and Graphics" />
+  <img src="https://skillicons.dev/icons?i=figma,ps" alt="Design and Graphics" />
 </p>
 
 ### 🔧 Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" alt="Tools" />
 </p>
+
 
 ## 📊 GitHub Statistics & Analysis
 
